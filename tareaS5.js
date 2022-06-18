@@ -80,4 +80,4 @@ let pokemones = [
 ];
 
 const pokemonesFuego = pokemones.filter((pokemon) => pokemon.tipo === "Fuego");
-console.log(pokemonesFuego());
+console.log(pokemonesFuego);
